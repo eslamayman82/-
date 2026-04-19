@@ -4,8 +4,9 @@ name2=float(input("enter scand namber : "))
 
 if oper== "+": 
     rasult=name1+name2
-    print(name1,"+", name2, "=", rasult)
-    elif oper== "-": 
+    print(name1,"+", name2, "=", rasult) 
+
+elif oper== "-": 
     rasult=name1-name2
     print(name1,"-", name2, "=", rasult)   
     
